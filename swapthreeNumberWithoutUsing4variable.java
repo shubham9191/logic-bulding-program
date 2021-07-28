@@ -2,7 +2,7 @@ package JavaProgram;
 
 import java.util.Scanner;
 
-public class swapTwoNumber {
+public class swapthreeNumberWithoutUsing4variable {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
